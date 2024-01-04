@@ -1,0 +1,74 @@
+/* ==========================================================================
+   Preloader
+   ========================================================================== */
+
+   .spinner .circles::before, .spinner .circles::after {
+    background-color: #9809F7;
+}
+
+/* ==========================================================================
+   Menu Toggle and Search
+   ========================================================================== */
+
+   .menu-toggle.open .cross span {
+    background: #9809F7;
+}
+
+.search.open i {
+    color: #9809F7;
+}
+
+/* ==========================================================================
+   Navigation Link
+   ========================================================================== */
+
+   .spyre-nav-link:hover {
+    text-decoration: none;
+    color: #9809F7;
+}
+
+.dropdown-menu-link:hover {
+    text-decoration: none;
+    color: #9809F7;
+}
+
+.dropdown-menu-link.active {
+    text-decoration: none;
+    color: #9809F7;
+}
+
+.overlay-slide {
+    background: #280178;
+}
+
+/* ==========================================================================
+   Buttons
+   ========================================================================== */
+
+.btn.btn-primary {
+    background-color: #9809F7;
+    color: white;
+    border: 2px solid #9809F7;
+}
+
+.btn.btn-primary:hover {
+    background-color: #280178;
+    color: white;
+    border: 2px solid #280178;
+}
+
+.btn.btn-lg {
+    background-color: #9809F7;
+}
+
+.btn.btn-lg:hover {
+    background-color: #280178;
+}
+
+
+
+
+
+
+
+
